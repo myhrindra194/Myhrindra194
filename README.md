@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mirindra Randriambolamanjato , I come from Madagascar.
+- 👋 Hi, I’m Mirindra Randriambolamanjato , an IT student.
+- I come from Madagascar.
 - 🌱 I’m currently learning web development and data science
 
 
