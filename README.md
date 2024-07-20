@@ -1,4 +1,7 @@
 # 💫 About Me:
+<div align= "center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
+</div>
 <h2 align="center">Hey👋! My name is Mirindra <br>I'm a passionnate front-end developer apprentice from 🇲🇬</h2>
 
 
@@ -9,13 +12,9 @@
   </a>
 </div>
 
-
 ###
 
 # 💻 Tech Stack:
-<div align= "right">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
-</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
