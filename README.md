@@ -2,7 +2,8 @@
 <h2 align="center">Hey👋! My name is Mirindra <br>I'm a passionnate front-end developer apprentice from 🇲🇬</h2>
 
 
-## 🌐 Socials:<div align="left">
+# 🌐 Socials:
+<div align="left">
   <a href="https://mg.linkedin.com/in/myhrindra194" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -12,7 +13,9 @@
 ###
 
 # 💻 Tech Stack:
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align= "right">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
