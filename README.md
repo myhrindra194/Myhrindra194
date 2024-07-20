@@ -62,10 +62,15 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Myhrindra194&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Myhrindra194&theme=dark&hide_border=true)<br/>
+<divr align = "right">
+![](https://github-readme-stats.vercel.app/api?username=Myhrindra194&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+</div>
+<div align = "center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=Myhrindra194&theme=dark&hide_border=true)
+</div>
+<div align = "left" >
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myhrindra194&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Myhrindra194&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
