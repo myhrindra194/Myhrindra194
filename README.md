@@ -69,10 +69,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Myhrindra194&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Myhrindra194/Myhrindra194/output/snake.svg" alt="Snake animation" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Myhrindra194&icon=0&color=0)](https://visitcount.itsvg.in)
 
