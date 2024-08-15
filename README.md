@@ -2,8 +2,8 @@
 <div align= "center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
-<h2 align="center">Hey👋! My name is Mirindra RANDRIAMBOLAMANJATO
-  <br>I'm a passionnate front-end developer apprentice from 🇲🇬</h2>
+<p align="center">Hey👋! I am Mirindra RANDRIAMBOLAMANJATO
+  <br>I'm a passionnate front-end developer apprentice from 🇲🇬</p>
 
 
 # 🌐 Socials:
